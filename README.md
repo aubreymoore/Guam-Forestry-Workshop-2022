@@ -4,4 +4,4 @@ Here are 4 presentations I made at a workshop on invasive species for the Guam D
 
 You can preview each PDF simply by clicking on the file name. At the top of the preview page is a download button in case you want your own copy.
 
-Additional online resources for forestry in Micronesia are available in [this other GitHub repository]().
+Additional online resources for forestry entomology in Micronesia are available at <https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources>.
